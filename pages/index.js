@@ -1,4 +1,3 @@
-javascript
 import { useState } from 'react'
 import { createWorker } from 'tesseract.js'
 import * as pdfjsLib from 'pdfjs-dist/legacy/build/pdf.js'
