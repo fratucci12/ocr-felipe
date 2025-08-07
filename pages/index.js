@@ -61,5 +61,5 @@ export default function Home() {
         <a href={downloadUrl} download="ocr.pdf">📥 Baixar PDF com texto pesquisável</a>
       )}
     </main>
-  }
+  );
 }
